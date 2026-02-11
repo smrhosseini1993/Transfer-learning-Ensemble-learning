@@ -78,5 +78,6 @@ MIT License - see LICENSE file.
 **Seyed M. Hosseini**  
 Turku PET Centre, University of Turku  
 smhoss@utu.fi
+or smrh.1372@gmail.com
 
 For questions, open an issue on GitHub or contact via email.
